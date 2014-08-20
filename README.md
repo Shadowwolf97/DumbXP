@@ -18,6 +18,7 @@ Permissions
 ------
 
 `dumbxp.reload` - Permits `/dumbxp reload`
+
 `dumbxp.use` - Permits `/dumbxp`
 
 
