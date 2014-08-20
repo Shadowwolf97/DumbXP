@@ -1,0 +1,11 @@
+# DumbXP
+# --------------------------
+# Because all you want to do is store your experience.
+
+# Prefix for all messages
+prefix: '&7[DumbXP]'
+
+# Cache the last username for the UUIDs stored (Will cause larger config file)
+# Should only be used for testing and debugging purposes. These names should
+# Not be relied on for player identification. (Makes config easier to read by hand)
+cache-username: false

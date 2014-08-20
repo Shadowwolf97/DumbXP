@@ -1,0 +1,17 @@
+name: DumbXP
+main: com.shdwlf.dumbxp.DumbXP
+version: maven-version-number
+description: Store your XP.
+author: Shadowwolf97
+commands:
+    dumbxp:
+        permission: dumbxp.use
+        usage: /<command>
+        description: Displays DumbXP GUI
+permissions:
+    dumbxp.reload:
+        default: op
+        description: Allows /dumbxp reload
+    dumbxp.use:
+        default: op
+        description: Allows a player to use DumbXP
